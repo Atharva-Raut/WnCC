@@ -19,7 +19,11 @@ mentees:
 - 4-6
 ---
 
-This project would tackle the problem of Image Super Resolution. Image super-resolution (SR) techniques reconstruct a higher-resolution image or sequence from the observed lower-resolution images. Often a low-resolution image is taken as an input and the same image is upscaled to a higher resolution, which is the output. The details in the high-resolution output are filled in where the details are essentially unknown. Super resolution is essentially what you see in films and series like CSI where someone zooms into an image and it improves in quality and the details just appear.
+This project would tackle the problem of Image Super Resolution. Image super-resolution (SR) techniques reconstruct a higher-resolution image or sequence from the observed lower-resolution images.
+
+<!--break-->
+
+Often a low-resolution image is taken as an input and the same image is upscaled to a higher resolution, which is the output. The details in the high-resolution output are filled in where the details are essentially unknown. Super resolution is essentially what you see in films and series like CSI where someone zooms into an image and it improves in quality and the details just appear.
 
 <!--break-->
 
